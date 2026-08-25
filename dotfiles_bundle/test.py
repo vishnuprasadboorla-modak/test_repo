@@ -1,4 +1,4 @@
-test sample
+new test for conflicts
 
 sd
 asd
